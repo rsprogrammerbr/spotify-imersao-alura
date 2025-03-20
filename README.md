@@ -58,6 +58,8 @@ O projeto foi desenvolvido com foco em responsividade, funcionando bem em:
 - Tablet
 - Mobile
 
+![SPOTIFY-CLONE](https://github.com/user-attachments/assets/d83466ba-8545-4f66-912d-475580331c90)
+
 ## 🤝 Contribuindo
 
 Contribuições são sempre bem-vindas! Para contribuir:
