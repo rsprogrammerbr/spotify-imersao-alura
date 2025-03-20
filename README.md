@@ -74,7 +74,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- Seu Nome - [seu-usuario-github](https://github.com/seu-usuario)
+- Rodrigo Silva - [seu-usuario-github](https://github.com/rsprogrammerbr)
 
 ## 🙏 Agradecimentos
 
